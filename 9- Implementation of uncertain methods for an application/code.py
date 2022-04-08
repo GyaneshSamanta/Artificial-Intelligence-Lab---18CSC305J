@@ -1,3 +1,4 @@
+#pip3 install matplotlib
 import matplotlib.pyplot as plt
 import seaborn; seaborn.set_style('whitegrid')
 import numpy
